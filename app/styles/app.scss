@@ -1,0 +1,17 @@
+$space-large: 2.5rem;
+$main-color: #555;
+
+
+body, h1, h2, h3, h4, h5 {
+  font-family: Arial, sans-serif;
+}
+
+.page-title {
+  color: $main-color;
+  margin-top: $space-large;
+  margin-bottom: $space-large;
+}
+
+input[type=search] {
+  box-shadow: none;
+}
